@@ -1,5 +1,5 @@
-Hi there, I'm Caio Eduardo
-I live in Brazil, Minas Gerais
+Hi there, I'm Caio Eduardo.
+I live in Brazil, Minas Gerais.
 I am Developer
 
 
