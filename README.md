@@ -1,5 +1,10 @@
+Hi there, I'm Caio Eduardo
+I live in Brazil, Minas Gerais
+I am Developer
+
+
 <!--
-- 🔭 Programador Treinner ...
+- 🔭 Programador Jr ...
 - 🌱 Estudando: Java ...
 -->
 
