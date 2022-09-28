@@ -1,7 +1,8 @@
-Hi there, I'm Caio Eduardo.
+<div>
+<strong>Hi there, I'm Caio Eduardo.
 I live in Brazil, Minas Gerais.
-I am Developer
-
+I am Developer</strong>
+</div>
 
 <!--
 - 🔭 Programador Jr ...
