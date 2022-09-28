@@ -1,7 +1,9 @@
 <div>
-<strong>Hi there, I'm Caio Eduardo.
-I live in Brazil, Minas Gerais.
-I am Developer</strong>
+<h1>
+  Hi there, I'm Caio Eduardo.
+  I live in Brazil, Minas Gerais.
+  I am Developer
+</h1>
 </div>
 
 <!--
