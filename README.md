@@ -14,9 +14,8 @@ I am Developer
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioed77&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-Frameworks and languages:
-
 <div style="display: inline_block"><br>
+  <h1>Frameworks and languages:</h1>
   <img align="center" alt="Caio-Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
   <img align="center" alt="Caio-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
   <img align="center" alt="Caio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
