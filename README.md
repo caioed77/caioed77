@@ -1,4 +1,4 @@
-<h1 style="color:blue;> Hi there, I'm Caio Eduardo.</l1>
+<h1 style="color:blue"> Hi there, I'm Caio Eduardo.</l1>
  I live in Brazil, Minas Gerais.</l1>
  I am Developer</h1>
 
