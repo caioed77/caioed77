@@ -1,6 +1,7 @@
 <h1 style="color:blue"> Hi there, I'm Caio Eduardo.</l1>
- I live in Brazil, Minas Gerais.</l1>
- I am Developer</h1>
+ <p>I live in Brazil, Minas Gerais.
+ I am Developer</p>
+ </h1>
 
 <!--
 - 🔭 Programador Jr ...
