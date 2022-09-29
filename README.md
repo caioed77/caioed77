@@ -3,10 +3,14 @@
  I am Developer</p>
  </h1>
 
-<!--
-- 🔭 Programador Jr ...
-- 🌱 Estudando: Java ...
--->
+<div>
+ <span>
+  <!--
+  - 🔭 Programador Jr ...
+  - 🌱 Estudando: Java ...
+  -->
+   </span>
+</div>
 
 <div align="center">
   <a href="https://github.com/caioed77">
