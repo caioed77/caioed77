@@ -4,12 +4,10 @@
  </h1>
 
 <div>
- <span>
-  <!--
-  - 🔭 Programador Jr ...
-  - 🌱 Estudando: Java ...
-  -->
-   </span>
+  <li><!--</li>
+  <li>- 🔭 Programador Jr ...</li>
+  <li>- 🌱 Estudando: Java ...</li>
+  <li> --></li>
 </div>
 
 <div align="center">
