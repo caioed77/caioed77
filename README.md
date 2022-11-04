@@ -1,5 +1,5 @@
 <h1 style="font-family:verdana; font-size:30"> Hi there, I'm Caio Eduardo.</l1>
- <p style="font-size:30%">I live in Brazil, Minas Gerais.
+ <p style="font-size:10%">I live in Brazil, Minas Gerais.
  I am Developer</p>
  </h1>
 
