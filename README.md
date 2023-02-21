@@ -4,7 +4,7 @@
  </h1>
 
 
-  <h1 styles="font-sm">
+  <h1 style="font-sm">
     <span>- 🔭 Programador Java ...</span>
     <span>- 🌱 Estudando: React ...</span>
   </h1>
