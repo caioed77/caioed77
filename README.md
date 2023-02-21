@@ -1,13 +1,13 @@
 <h1 style="font-family:verdana; font-size:10"> Hi there, I'm Caio Eduardo.</l1>
- <p style="font-size:10%">I live in Brazil, Minas Gerais.
- I am Developer</p>
- </h1>
+  <p style="font-size:10%">I live in Brazil, Minas Gerais.
+  I am Developer</p>
+</h1>
 
 
-  <h1 style="font-sm">
-    <span>- 🔭 Programador Java ...</span>
-    <span>- 🌱 Estudando: React ...</span>
-  </h1>
+<h1 style="font-size:10%">
+  <span>- 🔭 Programador Java ...</span>
+  <span>- 🌱 Estudando: React ...</span>
+</h1>
 
 
 <div align="center">
