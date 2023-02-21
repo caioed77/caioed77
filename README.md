@@ -7,7 +7,6 @@
 </div>
 
 <div align="center">
-  <h1>My GitHub stats</h1>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioed77&show_icons=true&theme=outrun&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioed77&layout=compact&langs_count=7&theme=dracula"/>
 </div>
