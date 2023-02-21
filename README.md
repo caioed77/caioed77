@@ -1,8 +1,12 @@
-<h1 style="font-family:roboto; font-size:10"> 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎.</l1>
-  <p style="font-size:10%">𝙸 𝚕𝚒𝚟𝚎 𝚒𝚗 𝙱𝚛𝚊𝚣𝚒𝚕, 𝙼𝚒𝚗𝚊𝚜 𝙶𝚎𝚛𝚊𝚒𝚜</p>
-  <p style="font-size:10%">𝙸'𝚖 𝚊 𝚏𝚞𝚕𝚕 𝚜𝚝𝚊𝚌𝚔 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛</p>  
-</h1>
+<h1 style="font-family:roboto; font-size:10"> 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎.</l1></h1>
 
+### My study plans:
+ * Elixir
+ * Infra as a code
+ * Databases
+ * Linux
+ * Rust
+ ## ⭐Stats
 
 <h1 style="font-size:10%">
   <span>- 🔭 Programador Java ...</span>
