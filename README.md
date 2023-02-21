@@ -1,5 +1,28 @@
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  h1 {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    color: #4c4c4c;
+    margin: 30px 0;
+  }
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  li {
+    margin: 10px 0;
+  }
+</style>
+
 <div>
-  <h1>Welcome to my profile</h1>
+  <h1>𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎</h1>
   <ul>
     <li>I'm a full stack programmer</li>
     <li>I live in Brazil, Minas Gerais</li>
