@@ -2,20 +2,12 @@
 𝙸'𝚖 𝚊 𝚏𝚞𝚕𝚕 𝚜𝚝𝚊𝚌𝚔 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛<li>
 𝙸 𝚕𝚒𝚟𝚎 𝚒𝚗 𝙱𝚛𝚊𝚣𝚒𝚕, 𝙼𝚒𝚗𝚊𝚜 𝙶𝚎𝚛𝚊𝚒𝚜
 
-
----- My study plans ----
- * Elixir
- * Infra as a code
+### ⭐ My study --
+ * Java 
+ * React.js
  * Databases
- * Linux
- * Rust
- ## ⭐Stats
-
-<h1 style="font-size:10%">
-  <span>- 🔭 Programador Java ...</span>
-  <span>- 🌱 Estudando: React ...</span>
-</h1>
-
+ * Python
+ * DevOps
 
 <div align="center">
   <a href="https://github.com/caioed77">
