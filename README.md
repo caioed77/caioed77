@@ -1,7 +1,8 @@
-<p>𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎</p><li>
-𝙸'𝚖 𝚊 𝚏𝚞𝚕𝚕 𝚜𝚝𝚊𝚌𝚔 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛<li>
-𝙸 𝚕𝚒𝚟𝚎 𝚒𝚗 𝙱𝚛𝚊𝚣𝚒𝚕, 𝙼𝚒𝚗𝚊𝚜 𝙶𝚎𝚛𝚊𝚒𝚜
-
+<div>
+  <p>𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎</p><li>
+  𝙸'𝚖 𝚊 𝚏𝚞𝚕𝚕 𝚜𝚝𝚊𝚌𝚔 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛<li>
+  𝙸 𝚕𝚒𝚟𝚎 𝚒𝚗 𝙱𝚛𝚊𝚣𝚒𝚕, 𝙼𝚒𝚗𝚊𝚜 𝙶𝚎𝚛𝚊𝚒𝚜
+</div>
 <div align="center">
   <a href="https://github.com/caioed77">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioed77&show_icons=true&theme=outrun&count_private=true"/>
