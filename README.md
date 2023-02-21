@@ -3,8 +3,9 @@
 𝙸 𝚕𝚒𝚟𝚎 𝚒𝚗 𝙱𝚛𝚊𝚣𝚒𝚕, 𝙼𝚒𝚗𝚊𝚜 𝙶𝚎𝚛𝚊𝚒𝚜
 
 ### ⭐ My study --
- * Java * React.js * Databases 
- * Python * DevOps
+ * Java  
+ * Python 
+ * React.js
 
 <div align="center">
   <a href="https://github.com/caioed77">
