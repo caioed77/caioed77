@@ -3,6 +3,7 @@
   <ul>
     <li>I'm a full stack programmer</li>
     <li>I live in Brazil, Minas Gerais</li>
+    <li>Lots of pizza and late night codes</li>
   </ul>
 </div>
 
