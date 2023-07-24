@@ -1,7 +1,7 @@
 <div>
   <h1>𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎</h1>
-  <ul style="column-count: 2 column-gap: "20px"">
-    <li>I'm a full stack programmer</li>
+  <ul style="column-count: 2 column-gap: "20px">
+    <li >I'm a full stack programmer</li>
     <li>I live in Brazil, Minas Gerais</li>
     <li>Lots of pizza and late night codes</li>
     <li>May the force be with you</li>
