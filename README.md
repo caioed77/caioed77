@@ -4,6 +4,7 @@
     <li>I'm a full stack programmer</li>
     <li>I live in Brazil, Minas Gerais</li>
     <li>Lots of pizza and late night codes</li>
+    <li>May the force be with you</li>
   </ul>
 </div>
 
