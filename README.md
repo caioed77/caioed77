@@ -1,8 +1,8 @@
 <div>
   <h1>𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎</h1>
-  <ul>
-    <li>I'm a full stack programmer</li></p>
-    <li>I live in Brazil, Minas Gerais</li></p>
+  <ul style="column-count: 2 column-count: 2">
+    <li>I'm a full stack programmer</li>
+    <li>I live in Brazil, Minas Gerais</li>
     <li>Lots of pizza and late night codes</li>
     <li>May the force be with you</li>
   </ul>
